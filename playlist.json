@@ -1,0 +1,25 @@
+{
+    "songs":[
+      {
+        "albumart": "https://i1.sndcdn.com/artworks-Z2Gy7JdqY0ed8ko3-ex8YFA-t500x500.jpg",
+        "author": "Wxrdie",
+        "song": "Nhạc Trap Căng Nhất 2023",
+        "json":"https://jewel998.github.io/playlist/data/nhactrapcangnhat2023.json",
+        "audio":"https://jewel998.github.io/playlist/music/nhactrapcangnhat2023.mp3"
+      },
+      {
+        "albumart": "https://i.ytimg.com/vi/dz6xe0xXqYE/maxresdefault.jpg",
+        "author": "MCK",
+        "song": "Ừ Thì Anh Đã Ổn Hơn",
+        "json":"https://jewel998.github.io/playlist/data/uthianhdaonhon.json",
+        "audio":"https://jewel998.github.io/playlist/music/uthianhdaonhon.mp3"
+      },
+      {
+        "albumart": "https://media.gq.com/photos/62800a901e7f4591bdbc26ae/1:1/w_2239,h_2240,c_limit/Screen%20Shot%202022-05-14%20at%203.56.23%20PM.png",
+        "author": "Kendrick Lamar",
+        "song": "N95",
+        "json":"https://jewel998.github.io/playlist/data/n95.json",
+        "audio":"https://jewel998.github.io/playlist/music/n95.mp3"
+      }
+    ]
+  }
