@@ -1,11 +1,11 @@
 {
     "songs":[
       {
-        "albumart": "https://i1.sndcdn.com/artworks-Z2Gy7JdqY0ed8ko3-ex8YFA-t500x500.jpg",
-        "author": "Wxrdie",
-        "song": "Nhạc Trap Căng Nhất 2023",
+        "albumart": "https://i.scdn.co/image/ab67616d0000b273b315e8bb7ef5e57e9a25bb0f",
+        "author": "MCK",
+        "song": "Ừ Thì Anh Đã Ổn Hơn",
         "json":"https://nvminh9.github.io/playlist/data/nhactrapcangnhat2023.json",
-        "audio":"https://nvminh9.github.io/playlist/music/nhactrapcangnhat2023.mp3"
+        "audio":"https://nvminh9.github.io/playlist/music/uThiAnhDaOnHon.mp3"
       }
     ]
   }
